@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "01",
+      "firstName": "Salman",
+      "age": 38,
+      "companyId": null
+    },
+    {
+      "id": "02",
+      "firstName": "Heetaf",
+      "age": 24,
+      "companyId": "02"
+    },
+    {
+      "id": "03",
+      "firstName": "Samia",
+      "age": 62,
+      "companyId": "02"
+    },
+    {
+      "firstName": "Atif",
+      "age": 41,
+      "id": "_235dNY"
+    }
+  ],
+  "companies": [
+    {
+      "id": "01",
+      "name": "CoutAllure",
+      "description": "changing the world of fashion by making you the designer"
+    },
+    {
+      "id": "02",
+      "name": "Hairoscope",
+      "description": "making looking smart a bit more convenient"
+    }
+  ]
+}
